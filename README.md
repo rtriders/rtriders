@@ -1,7 +1,7 @@
 ### Hi I'm Rahul Tewari 👋
 
 <!--
-**Rahul Tewari ** is a ✨ Self Learner and Information Technology student ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rahul Tewari is a Self Learner and Information Technology student whose looking to build a career in a leading tech company
 
 Here are some ideas to get you started:
 
