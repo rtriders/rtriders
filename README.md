@@ -19,3 +19,8 @@ Programming Languages :
 - C++
 - Java
 
+
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "fa"
+  link = "https://www.linkedin.com/in/rahul-tewari-0b6236192"
