@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi I'm Rahul Tewari 👋
 
 <!--
-**rtriders/rtriders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rahul Tewari ** is a ✨ Self Learner and Information Technology student ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
