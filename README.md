@@ -19,8 +19,9 @@ Programming Languages :
 - C++
 - Java
 
-[GitHub Pages]([https://pages.github.com/](https://www.linkedin.com/in/rahul-tewari-0b6236192))
-[[params.social]]
-  icon = "linkedin"
-  icon_pack = "fa"
-  link = "https://www.linkedin.com/in/rahul-tewari-0b6236192"
+Contact :
+
+ - [LinkedIn](https://www.linkedin.com/in/rahul-tewari-0b6236192)                       
+ - [Portfolio Website](https://sites.google.com/view/rahultewari111/home)
+
+ 
