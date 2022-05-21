@@ -19,7 +19,7 @@ Programming Languages :
 - C++
 - Java
 
-
+[GitHub Pages]([https://pages.github.com/](https://www.linkedin.com/in/rahul-tewari-0b6236192))
 [[params.social]]
   icon = "linkedin"
   icon_pack = "fa"
