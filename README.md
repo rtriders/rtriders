@@ -22,7 +22,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Travel Recommendation ETL Pipeline](https://github.com/rtriders/Travel-Recommendation-ETL-Pipeline) | Serverless pipeline using AWS Lambda, S3, Glue, and Athena to recommend travel cities based on weather data | AWS, Lambda, Athena, API, S3, Glue |
-| [Google Books ETL Pipeline](https://github.com/rtriders/Google_books_data_pipeline) | Automated ETL pipeline using Airflow tool running over Docker containers, Postgres-Sql with Data Quality checks and performed EDA for identifying trends.  | Airflow, Pandas, Postgres, Docker |
+| [Google Books ETL Pipeline](https://github.com/rtriders/Google_books_data_pipeline) | Developed an automated ETL pipeline using Apache Airflow running in Docker containers, implemented data quality checks, and performed exploratory data analysis (EDA) on PostgreSQL to identify trends.| Airflow, Pandas, Postgres, Docker |
 
 ---
 
