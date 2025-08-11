@@ -22,7 +22,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Travel Recommendation ETL Pipeline](https://github.com/rtriders/Travel-Recommendation-ETL-Pipeline) | Serverless pipeline using AWS Lambda, S3, Glue, and Athena to recommend travel cities based on weather data | AWS, Lambda, Athena, API, S3, Glue |
-| More Projects Coming Soon... | Stay tuned! | 🚧 |
+| Google Books ETL Pipeline(https://github.com/rtriders/Google_books_data_pipeline) | Stay tuned! | 🚧 |
 
 ---
 
