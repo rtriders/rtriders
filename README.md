@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham! 
+# 👋 Hi, I'm Rahul! 
 
 ## 🚀 AWS | Data Engineer | PySpark | ETL | Big Data
 
@@ -34,8 +34,8 @@
 
 ---
 
+### 📫 Connect With Me
 
-Contact :
 
  - [LinkedIn](https://www.linkedin.com/in/rahul-tewari-215515336)                       
  - [Portfolio Website](https://sites.google.com/view/rahultewari111/home)
