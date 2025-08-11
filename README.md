@@ -21,7 +21,7 @@ Programming Languages :
 
 Contact :
 
- - [LinkedIn]([https://www.linkedin.com/in/rahul-tewari-0b6236192](https://www.linkedin.com/in/rahul-tewari-215515336)                       
+ - [LinkedIn](https://www.linkedin.com/in/rahul-tewari-215515336)                       
  - [Portfolio Website](https://sites.google.com/view/rahultewari111/home)
 
  
